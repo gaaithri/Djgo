@@ -1,0 +1,13 @@
+
+The __init__.py tells that the folder needs to be treated like a package
+Read on python packages .
+
+
+Project
+
+- apps(rooms -for different purposes or ways to origanise your code)
+- users
+- posts
+- comments
+- stories
+- followers
